@@ -1,0 +1,10 @@
+.cont {
+  /* height: 95vh !important; */
+  width: 100vw;
+  /* max-height: 95vh; */
+  flex: 1;
+  overflow: scroll;
+  padding: 12px;
+  /* margin-top: 100px; */
+  background-color: bisque;
+}
